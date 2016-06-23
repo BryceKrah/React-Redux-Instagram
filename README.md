@@ -1,1 +1,1 @@
-#ShowTracker 2.0 using React
+#ShowTracker 2.0 using React & Redux
