@@ -1,0 +1,12 @@
+.post-container{
+  display: flex;
+  justify-content: center;
+  height: 375px;
+  width: 300px;
+  flex-wrap: wrap;
+}
+
+.post-img {
+  height: 275px;
+  width: 300px;
+}
